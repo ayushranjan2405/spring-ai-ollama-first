@@ -31,3 +31,11 @@ This is a simple **Spring Boot** application that integrates with a **local LLM 
 
 ---
 
+## 📬 Sample Postman Request
+
+You can test the `/chat` endpoint using **Postman** or any REST client.
+
+**Method:** `GET`  
+**URL:** `http://localhost:8081/chat?q=write a java code for even numbers`
+
+---
